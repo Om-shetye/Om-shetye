@@ -48,7 +48,7 @@
 
 My first published website, created in 9th standard (2021), documenting the chronological viewing order of MCU movies and series. A snapshot of where my web development journey began.
 
-🔗 [View Repository](YOUR_REPOSITORY_LINK)
+🔗 [View Repository]([YOUR_REPOSITORY_LINK](https://github.com/Om-shetye/Sequence-of-MCU-movies.git))
 
 ---
 
